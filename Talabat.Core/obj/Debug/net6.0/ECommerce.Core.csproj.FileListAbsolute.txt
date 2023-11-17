@@ -1,0 +1,12 @@
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\bin\Debug\net6.0\ECommerce.Core.deps.json
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.csproj.AssemblyReference.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.AssemblyInfo.cs
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\refint\ECommerce.Core.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Core\obj\Debug\net6.0\ref\ECommerce.Core.dll

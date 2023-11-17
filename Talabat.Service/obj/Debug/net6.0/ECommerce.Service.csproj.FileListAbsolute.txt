@@ -1,0 +1,15 @@
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\bin\Debug\net6.0\ECommerce.Service.deps.json
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\bin\Debug\net6.0\ECommerce.Service.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\bin\Debug\net6.0\ECommerce.Service.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.csproj.AssemblyReference.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.AssemblyInfo.cs
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.csproj.CopyComplete
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\refint\ECommerce.Service.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ECommerce.Service.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Service\obj\Debug\net6.0\ref\ECommerce.Service.dll

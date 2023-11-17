@@ -1,0 +1,15 @@
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\bin\Debug\net6.0\ECommerce.Repository.deps.json
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\bin\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\bin\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfo.cs
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CopyComplete
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\refint\ECommerce.Repository.dll
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\kiko\Desktop\API Alia Tarek\08 API\Talabat.Apis.Solution - Copy\Talabat.Repository\obj\Debug\net6.0\ref\ECommerce.Repository.dll
